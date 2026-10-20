@@ -1,0 +1,20 @@
+# 编译产物
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+
+# Keil / 编译输出目录
+Debug/
+Release/
+Objects/
+Listings/
+MDK-ARM/*/
+
+# 编辑器临时文件
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
